@@ -4,6 +4,7 @@ public class Ivo {
 
     String nombre;
     String apellido;
+    Integer edad;
 
     public Ivo() {
     }
