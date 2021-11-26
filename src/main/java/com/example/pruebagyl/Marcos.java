@@ -5,7 +5,7 @@ import java.time.LocalDate;
 public class Marcos {
 
     private Long dni;
-    private String nombre;
+    private String nombre = "Respetaaa asquerosoo!!!";
     private String apellido;
     private LocalDate fechaNacimiento;
     private String email;
