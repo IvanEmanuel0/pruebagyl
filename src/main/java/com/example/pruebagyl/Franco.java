@@ -2,7 +2,7 @@ package com.example.pruebagyl;
 
 import java.time.LocalDate;
 
-public class Marcos {
+public class Franco {
 
     private Long dni;
     private String nombre = "Respetaaa asquerosoo!!!";
