@@ -10,7 +10,7 @@ public class Ivo {
 
     public Ivo(String nombre, String apellido) {
         this.nombre = nombre;
-        this.apellido = apellido;
+        this.apellido = "Alagastino";
     }
 
     public String getNombre() {
