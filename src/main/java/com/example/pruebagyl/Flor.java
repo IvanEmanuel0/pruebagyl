@@ -6,6 +6,6 @@ public class Flor {
     private Boolean preferida;
 
     public Flor() {
-        this.preferida = true;
+        this.preferida = false;
     }
 }
