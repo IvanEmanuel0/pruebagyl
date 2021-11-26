@@ -6,4 +6,5 @@ public class Leandro {
     Integer id;
     String name;
     Boolean puto = true;
+    Integer edad;
 }
