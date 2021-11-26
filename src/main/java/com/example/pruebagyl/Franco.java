@@ -6,7 +6,7 @@ public class Franco {
 
     private Long dni;
     private String nombre = "Respetaaa asquerosoo!!!";
-    private String apellido;
+    private String apellido = "vigilante";
     private LocalDate fechaNacimiento;
     private String email;
     private String direccion;
